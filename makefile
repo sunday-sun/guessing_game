@@ -1,4 +1,4 @@
-README.md:
+README.md: guessinggame.sh
 	echo "# GUESSING GAME" > README.md
 	echo "## date and time at which make was run:" >> README.md
 	date >> README.md
