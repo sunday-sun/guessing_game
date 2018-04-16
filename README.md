@@ -1,3 +1,5 @@
 # Bash, Make, Git, and GitHub
-Mon Apr 16 14:07:32 CST 2018
+## date and time at which make was run:
+Mon Apr 16 14:37:07 CST 2018
+## number of lines in guessinggame.sh:
 23
